@@ -15,6 +15,12 @@ This tool lets users:
 
 ---
 
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/llm-prompt-curation-tool/blob/main/preview.png" alt="Flight Booking UI Screenshot" width="100%" />
+
+---
+
 ## 🎯 Why We Built This
 
 Prompt quality directly affects LLM performance. This project simulates:
